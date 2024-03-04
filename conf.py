@@ -25,3 +25,6 @@ data = {'username': 'device_migration@sl.schnelliot.in', 'password': '$2@rt&Ten@
 # Base URL for image paths in a production environment
 pic_base_url_prod = "https://schnell-s3-image.s3.ap-south-1.amazonaws.com/luminator/"
 # pic_base_url_prod = "https://luminator-iotpro.s3.us-east-1.amazonaws.com/luminator/"
+
+
+"helo"
