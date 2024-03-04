@@ -27,4 +27,3 @@ pic_base_url_prod = "https://schnell-s3-image.s3.ap-south-1.amazonaws.com/lumina
 # pic_base_url_prod = "https://luminator-iotpro.s3.us-east-1.amazonaws.com/luminator/"
 
 
-"helo"
